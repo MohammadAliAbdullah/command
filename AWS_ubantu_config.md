@@ -11,6 +11,8 @@ This guide provides step-by-step instructions to install and configure Apache We
 5. [MySQL Configuration and Management](#mysql-configuration-and-management)
 6. [Connect with phpMyAdmin](#connect-with-phpmyadmin)
 
+7. https://chimerical-granita-eb78a4.netlify.app/
+
 ## Apache Web Server Installation
 
 ### Step 1: Update System Packages
