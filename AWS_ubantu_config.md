@@ -1,10 +1,19 @@
-## Apache Web Server Installation on Ubuntu 24.04:
---------------------------------------------------
+# Ubuntu 24.04 Server Setup Guide
 
-This guide provides step-by-step instructions to install and configure the Apache Web Server on Ubuntu 24.04.
----
+This guide provides step-by-step instructions to install and configure Apache Web Server, PHP, MySQL, and other essential services on Ubuntu 24.04.
 
-## 📦 Step 1: Update System Packages
+## Table of Contents
+
+1. [Apache Web Server Installation](#apache-web-server-installation)
+2. [Install PHP and MySQLi](#install-php-and-mysqli)
+3. [Solve Ubuntu Rewrite Issue](#solve-ubuntu-rewrite-issue)
+4. [File/Folder Permissions](#filefolder-permissions)
+5. [MySQL Configuration and Management](#mysql-configuration-and-management)
+6. [Connect with phpMyAdmin](#connect-with-phpmyadmin)
+
+## Apache Web Server Installation
+
+### Step 1: Update System Packages
 
 Make sure your system is up-to-date:
 
